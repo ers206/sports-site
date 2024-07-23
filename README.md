@@ -41,14 +41,14 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 
 <!-- TO DO  -->
 
+<!-- nav bar needs links to be corrected -->
+<!-- home page needs to be featured articles. its too much right now. I most likely wont have that many articles -->
 <!-- favicon and use AI for logo -->
 <!-- footer is huge, very unnessisary -->
-<!-- home page for each sport and then full article page for each sport/ need to set this up before I get started -->
-<!-- add wow animation? -->
-<!-- need soccer and hockey sections in more section  -->
+<!-- home and about sections have to be clear about what this site is trying to do -->
+<!-- add wow animation? data-aos="fade-up" data-aos-delay="0" looks to be the same basic thing as wow on about me section-->
 <!-- use sections for links to bball/baseball reference and other useful sites education is important and links to resources-->
-<!-- like or thumbs up and have contest on which article wins/might be future thing to do-->
-<!-- take search out-->
+<!-- like or thumbs up and have contest on which article wins/might be future thing to do*********-->
 <!-- buy template https://untree.co/license/  as long as comments and forms work -->
 <!-- check all pages.  dont match. check links -->
 <!-- need images stock? -->
@@ -62,9 +62,15 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 
 <!--  need to think of clever way to get writers/and how to make site different-->
 <!--  ask tiktokers to write something, pitch it as a way to get discovered and grow their brand-->
-<!--  what to put on sidebars on pages-->
 
-
+<!-- NAMES on notes -->
+<!-- antisports, rebel, anti-, unofficial,  media -->
+<!--  a play on rage against the machime -->
+<!--  voice of the unheard-->
+<!--  -the minority reporter->
+<!--  rage against the mothership(espn)-->
+<!--  -->
+<!--  -->
 
 <!-- NEED TO REMEMBER -->
 <!--  work on header...header done for now****** footer on home page then transfer-->
