@@ -73,6 +73,12 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 <!-- MY ARTICLES -->
 <!-- bronny -->
 <!-- young fans ruining sports -->
+  <!--no research, they believe everything, they think mvps should be on bad teams, winning doesnt matter, potential > production (kyrie)   -->
+<!-- if this was kobe in the olympics people would say "hes playing against amatures" te double standard, see if I can trick tiktokers and put into th article -->
+<!-- ask friends to write articles about their sport -->
+<!-- none of these cowards can take critiizim, they block anyone that has facts to bak them up. youe give a fact that proves them wron and they run away. just like todays players. big pussies  -->
+
+
 
 <!-- NEED TO REMEMBER -->
 <!--  work on header...header done for now****** footer on home page then transfer-->
