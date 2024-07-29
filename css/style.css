@@ -36,7 +36,7 @@
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
-  --bs-primary: #214252;
+  --bs-primary: #215223;
   --bs-secondary: #4D4C7D;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
@@ -9260,7 +9260,7 @@ textarea.form-control-lg {
 .site-nav {
   position: relative;
   width: 100%;
-  background-color: #214252;
+  background-color: #015c06;
   padding: 10px 0; }
 
 .site-nav h1, .site-nav .h1 {
@@ -10401,6 +10401,10 @@ textarea {
   font-size: 20px;
   color: #000; }
 
+.half-content{
+  padding-bottom: 10px;
+}
+
 .sec-halfs .half-content > div {
   width: 50%; }
   @media (max-width: 991.98px) {
@@ -10454,7 +10458,7 @@ textarea {
       color: #000; }
 
 .site-footer {
-  background: #214252;
+  background: #015c06;
   font-size: 14px;
   padding: 70px 0;
   color: white; }

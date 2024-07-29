@@ -85,3 +85,58 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 
 
 
+
+<!-- Yes, there are several options to obtain articles for your website without paying for them. Here are a few:
+Public Domain Articles
+Public Domain Sherpa: Offers a wide range of public domain articles.
+Public Domain 4U: Provides articles, ebooks, and other content in the public domain.
+Creative Commons Licensed Articles
+Medium: Many authors share their articles under Creative Commons licenses.
+HubPages: Articles are published under Creative Commons licenses.
+EzineArticles: Allows you to republish articles with proper attribution.
+Guest Blogging
+Invite experts in your niche to write guest posts for your website.
+Offer exposure and backlinks in exchange for their content.
+Open-Source Article Directories
+ArticleSphere: Offers a wide range of articles under Creative Commons licenses.
+GoArticles: Provides articles that can be republished with proper attribution.
+Content Sharing Platforms
+Quora: Allows you to republish answers (with proper attribution) as articles.
+LinkedIn Pulse: Publishes articles under Creative Commons licenses. -->
+
+
+<!-- Here are some sites that offer sports articles under Creative Commons licenses or public domain:
+Sports Article Directories
+EzineArticles (Sports category): Offers a wide range of sports articles.(xouldnt find site)
+ArticleSphere (Sports category): Provides sports articles under Creative Commons licenses.(couldnt find)
+GoArticles (Sports category): Offers sports articles that can be republished with proper attribution.
+Sports Articles on Medium: Many authors share sports articles under Creative Commons licenses.
+
+Sports News Sites with CC-Licensed Content
+Bleacher Report's CC-licensed articles: Select articles are available under Creative Commons licenses.
+SB Nation's CC-licensed articles: Some articles are published under Creative Commons licenses.
+Public Domain Sports Articles
+Public Domain Sherpa (Sports category): Offers a limited selection of public domain sports articles.
+Public Domain 4U (Sports category): Provides a few public domain sports articles.
+Sports Blogs and Websites with Guest Blogging Opportunities
+Sports Blog Nation: Allows guest posting opportunities for sports bloggers.
+The Sports Daily: Accepts guest posts from sports writers. -->
+
+
+<!-- That's correct! When using articles from these sites, make sure to:
+Verify the license: Check the article's license terms to ensure it allows for republication. Common licenses include Creative Commons Attribution (CC BY) or Creative Commons Attribution-ShareAlike (CC BY-SA).
+Give proper attribution: Credit the original author and source, as required by the license. This typically includes:
+Author's name
+Article title
+Original publication date
+Link to the original article (if applicable)
+Comply with license conditions: If the license requires, you may need to:
+Share your own content under the same license (CC BY-SA)
+Not use the article for commercial purposes (check the license for restrictions)
+By following these steps, you can use articles from these sites on your website for free, while also respecting the original authors' rights and contributions.
+Remember to always review the license terms and conditions for each article to ensure you're meeting the requirements. -->
+
+
+<!-- messaged SBnation 7-29 through there site  -->
+<!-- https://www.articlecity.com/blog/category/articles/recreation_and_sports/  -->
+<!-- maybe have AI write some articles with my prompts  -->
