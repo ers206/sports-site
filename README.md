@@ -70,6 +70,10 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 <!--  -->
 <!--  -->
 
+<!-- MY ARTICLES -->
+<!-- bronny -->
+<!-- young fans ruining sports -->
+
 <!-- NEED TO REMEMBER -->
 <!--  work on header...header done for now****** footer on home page then transfer-->
 <!--  -->
