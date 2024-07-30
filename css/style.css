@@ -2519,7 +2519,7 @@ textarea.form-control-lg {
       -o-transition: none;
       transition: none; } }
   .btn:hover {
-    color: #212529; }
+    color: #8a0303; }
   .btn-check:focus + .btn, .btn:focus {
     outline: 0;
     -webkit-box-shadow: 0 0 0 0.25rem rgba(33, 66, 82, 0.25);
@@ -2531,11 +2531,11 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #214252;
+  background-color: #8a0303;
   border-color: #214252; }
   .btn-primary:hover {
     color: #fff;
-    background-color: #1c3846;
+    background-color: #8a0303;
     border-color: #1a3542; }
   .btn-check:focus + .btn-primary, .btn-primary:focus {
     color: #fff;
@@ -2774,7 +2774,7 @@ textarea.form-control-lg {
   border-color: #214252; }
   .btn-outline-primary:hover {
     color: #fff;
-    background-color: #214252;
+    background-color: #8a0303;
     border-color: #214252; }
   .btn-check:focus + .btn-outline-primary, .btn-outline-primary:focus {
     -webkit-box-shadow: 0 0 0 0.25rem rgba(33, 66, 82, 0.5);
@@ -9257,10 +9257,37 @@ textarea.form-control-lg {
   .logo:hover {
     color: #fff; }
 
+/* Style for the left logo */
+.logo-image {
+  max-width: 120px; /* Adjust as needed */
+  height: auto;
+  display: block;
+}
+
+/* Style for the right logo */
+.right-logo-image {
+  max-width: 120px; /* Adjust the size as needed */
+  height: auto;
+  display: block;
+  margin-right: 10px; /* Space between the logo and the burger menu */
+}
+/* ************************************************************************************** */
+/* Responsive adjustments */
+@media (max-width: 993px) {
+  .logo-image {
+      max-width: 80px;
+  }
+  .right-logo-image {
+      visibility: hidden;
+  }
+}
+
+
+  
 .site-nav {
   position: relative;
   width: 100%;
-  background-color: #015c06;
+  background-color: #8a0303;
   padding: 10px 0; }
 
 .site-nav h1, .site-nav .h1 {
@@ -10458,7 +10485,7 @@ textarea {
       color: #000; }
 
 .site-footer {
-  background: #015c06;
+  background: #8a0303;
   font-size: 14px;
   padding: 70px 0;
   color: white; }
