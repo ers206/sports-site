@@ -87,8 +87,22 @@ body {
   background-color: var(--bs-body-bg);
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0); 
-  cursor: url('/images/baseball_6758191.cur'), auto !important;
+  /* cursor: url('/images/baseball_6758191.cur'), auto !important; */
 }
+
+.home-logo {
+  height: 350px;
+  width: auto;
+  align-items: center;
+}
+
+.image-container {
+  display: flex; /* Enable Flexbox */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  /* height: 100vh;  */
+}
+
 
 hr {
   margin: 1rem 0;
@@ -9275,24 +9289,24 @@ textarea.form-control-lg {
 
 /* Style for the left logo */
 .logo-image {
-  max-width: 120px; /* Adjust as needed */
+  max-width: 50px; /* Adjust as needed */
   height: auto;
   display: block;
 }
 
 /* Style for the right logo */
 .right-logo-image {
-  max-width: 120px; /* Adjust the size as needed */
+  max-width: 50px; /* Adjust the size as needed */
   height: auto;
   display: block;
-  margin-right: 10px; /* Space between the logo and the burger menu */
+  /* margin-right: 10px;  */
 }
 /* ************************************************************************************** */
 /* Responsive adjustments */
 @media (max-width: 993px) {
-  .logo-image {
-      max-width: 80px;
-  }
+  /* .logo-image {
+      max-width: 30px;
+  } */
   .right-logo-image {
       visibility: hidden;
   }
@@ -9318,7 +9332,7 @@ textarea.form-control-lg {
   .site-nav .site-navigation .site-menu > li {
     display: inline-block; }
     .site-nav .site-navigation .site-menu > li > a {
-      font-size: 14px;
+      font-size: 18px;
       padding: 10px 10px;
       display: inline-block;
       text-decoration: none !important;
@@ -9730,7 +9744,7 @@ a, .btn {
     box-shadow: none; }
   .btn.btn-primary {
     color: #fff;
-    background-color: #214252; }
+    background-color: #8a0303; }
     .btn.btn-primary:hover {
       border-color: #214252; }
   .btn.btn-outline-primary {
@@ -10369,7 +10383,7 @@ textarea {
   float: left;
   width: 44px;
   height: 44px;
-  background: #214252;
+  background: #8a0303;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -10388,7 +10402,7 @@ textarea {
 .contact-info h4, .contact-info .h4 {
   font-size: 16px;
   padding: 0 0 0 60px;
-  color: #214252; }
+  color: #8a0303; }
 
 .contact-info p {
   padding: 0 0 0 60px;

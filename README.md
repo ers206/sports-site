@@ -41,6 +41,8 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 
 <!-- TO DO  -->
 
+<!-- sports revolt logo needs to be smaller on home page when screen shrinks -->
+<!--  tags section on content page make sources -->
 <!-- face hard to see in header  -->
 <!-- put logo on top of pages -->
 <!-- leave a commnent section see if it will work -->
