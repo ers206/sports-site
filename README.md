@@ -41,16 +41,12 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 
 <!-- TO DO  -->
 
-<!-- sports revolt logo needs to be smaller on home page when screen shrinks -->
+<!-- tranfer footer from index to all other pages -->
 <!--  tags section on content page make sources -->
-<!-- face hard to see in header  -->
-<!-- put logo on top of pages -->
 <!-- leave a commnent section see if it will work -->
-<!-- home page needs to be featured articles. its too much right now. I most likely wont have that many articles -->
-<!-- add wow animation? data-aos="fade-up" data-aos-delay="0" looks to be the same basic thing as wow on about me section-->
+
 <!-- use side sections for links to bball/baseball reference and other useful sites education is important and links to resources-->
 <!-- buy template https://untree.co/license/  as long as comments and forms work -->
-<!-- need images stock? -->
 <!-- tips on how to write your own artcle -->
 
 
@@ -60,7 +56,6 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 
 <!-- THINGS TO THINK ABOUT -->
 
-<!-- home page orginization -->
 <!--  need to think of clever way to get writers/and how to make site different-->
 <!--  ask tiktokers to write something, pitch it as a way to get discovered and grow their brand-->
 
@@ -110,12 +105,11 @@ rotate-right -->
 
 
 <!-- Icon attribute  -->
-<!-- have not used yet -->
-<!-- <a href="https://www.freepik.com/icon/american-football_2700012#fromView=search&page=1&position=35&uuid=0f39eed9-6439-42a6-83fa-d51d04fe93ed">Icon by Freepik</a>  -->
-<!-- <a href="https://www.freepik.com/search">Icon by Freepik</a> -->
-<!-- Image by <a href="https://pixabay.com/users/katehonish-54094/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=183266">Kate Honish</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=183266">Pixabay</a> -->
-<!-- Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1846039">Pexels</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1846039">Pixabay</a> -->
-<!-- Image by <a href="https://pixabay.com/users/eileenploh-20250/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=78394">eileenploh</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=78394">Pixabay</a> -->
+ <!-- <a href="https://www.freepik.com/icon/american-football_2700012#fromView=search&page=1&position=35&uuid=0f39eed9-6439-42a6-83fa-d51d04fe93ed">Icon by Freepik</a>  
+<a href="https://www.freepik.com/search">Icon by Freepik</a> 
+ Image by <a href="https://pixabay.com/users/katehonish-54094/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=183266">Kate Honish</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=183266">Pixabay</a> 
+ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1846039">Pexels</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1846039">Pixabay</a> 
+ Image by <a href="https://pixabay.com/users/eileenploh-20250/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=78394">eileenploh</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=78394">Pixabay</a>  -->
 
 <!-- Yes, there are several options to obtain articles for your website without paying for them. Here are a few:
 Public Domain Articles

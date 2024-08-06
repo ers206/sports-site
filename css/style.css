@@ -90,6 +90,26 @@ body {
   /* cursor: url('/images/baseball_6758191.cur'), auto !important; */
 }
 
+/* Hover effect for icons */
+.social li a:hover .icon-instagram {
+  color: #e4405f; 
+  background-color: #000;
+}
+
+
+.social li a:hover .icon-facebook {
+  color: #2903fe; 
+}
+
+
+.social li a:hover .icon-envelope {
+  color: #04fe70; 
+}
+
+.site-footer .social li a:hover {
+ background: #000 !important;
+}
+
 .home-logo {
   height: 350px;
   width: auto;
@@ -1786,7 +1806,22 @@ progress {
 @media (max-width: 767.98px) {
   .table-responsive-md {
     overflow-x: auto;
-    -webkit-overflow-scrolling: touch; } }
+    -webkit-overflow-scrolling: touch; }
+   }
+
+   @media (max-width: 767.98px) {
+.home-logo {
+  height: 250px;
+  width: auto;
+     }
+    }
+
+    @media (max-width: 475px) {
+      .home-logo {
+        height: 150px;
+        width: auto;
+           }
+          }
 
 @media (max-width: 991.98px) {
   .table-responsive-lg {
