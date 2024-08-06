@@ -41,10 +41,10 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 
 <!-- TO DO  -->
 
+<!-- face hard to see in header  -->
+<!-- put logo on top of pages -->
 <!-- leave a commnent section see if it will work -->
-<!-- home page needs brief about us section and link to about us page  -->
 <!-- home page needs to be featured articles. its too much right now. I most likely wont have that many articles -->
-<!-- favicon and use AI for logo -->
 <!-- add wow animation? data-aos="fade-up" data-aos-delay="0" looks to be the same basic thing as wow on about me section-->
 <!-- use side sections for links to bball/baseball reference and other useful sites education is important and links to resources-->
 <!-- buy template https://untree.co/license/  as long as comments and forms work -->
