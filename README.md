@@ -1,11 +1,11 @@
 # sports-site
 
 ## Purpose
-
+Sports Revolt is a dynamic online forum dedicated to amateur sports writers who want to share their passion for sports with like-minded individuals. This platform provides an engaging space for sports enthusiasts to publish articles, share opinions, and engage in lively discussions about various sports topics. Whether you're a budding journalist, a passionate fan, or someone with unique insights into the sports world, Sports Revolt welcomes you to contribute and connect with others who share your interest.
 
 
 ## Description
-
+ The site utilizes Bootstrap 5 for a sleek and responsive design, ensuring an optimal user experience across devices. Custom typography from Google Fonts gives the site a modern and clean look, while Bootstrap Icons and Flaticon enhance the visual appeal with intuitive icons. Interactive features are powered by Tiny Slider for smooth carousels and image galleries, and AOS (Animate On Scroll) adds dynamic animations that bring the content to life as users scroll. Glightbox is used to create stylish overlays for viewing images and videos, and Flatpickr provides a user-friendly datepicker for seamless form interactions. Altogether, these technologies work in harmony to create a vibrant community space for sports enthusiasts to express their passion and connect with like-minded individuals.
 
 
 ## Built with
@@ -14,11 +14,11 @@
 * CSS
 * Bootstrap
 * JavaScript
-* jQuery
-* Owl Carousel
-* Slit Slider
-* Fancybox 
-* Animate.css
+* Google Fonts
+* Font Awesome
+* AOS
+* Tiny-sliders
+
 
 
 ## images
@@ -30,8 +30,8 @@
 ![]()
 
 
-## Website
-  
+## Website 
+https://sportsrevolt.net/ 
 
 ## contribution
 Eric Schweitzer at E TECHNOLOGIES LLC
@@ -40,7 +40,8 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 
 
 <!-- TO DO  -->
-
+<!-- header from index needs to be on every page -->
+<!-- read readme and delet things that arent used  -->
 <!-- tranfer footer from index to all other pages -->
 <!--  tags section on content page make sources -->
 <!-- leave a commnent section see if it will work -->
