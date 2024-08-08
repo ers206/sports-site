@@ -40,12 +40,13 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 
 
 <!-- TO DO  -->
+
 <!-- header from index needs to be on every page -->
 <!-- read readme and delet things that arent used  -->
-<!-- tranfer footer from index to all other pages -->
+<!-- tranfer footer from index to all other pages after copyright is removed -->
 <!--  tags section on content page make sources -->
 <!-- leave a commnent section see if it will work -->
-
+<!-- before it makes hamburger make nav items 3 on top 3 on bottom or all in one row-->
 <!-- use side sections for links to bball/baseball reference and other useful sites education is important and links to resources-->
 <!-- buy template https://untree.co/license/  as long as comments and forms work -->
 <!-- tips on how to write your own artcle -->

@@ -123,6 +123,20 @@ body {
   /* height: 100vh;  */
 }
 
+nav.site-nav {
+  background: linear-gradient(135deg, #8a0303, #270101); 
+
+}
+
+footer.site-footer {
+  background: linear-gradient(135deg, #8a0303, #270101); 
+
+}
+
+
+
+
+
 
 hr {
   margin: 1rem 0;
