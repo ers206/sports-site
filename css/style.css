@@ -1013,7 +1013,6 @@ progress {
   .row-cols-md-1 > * {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 auto;
-    flex: 0 0 auto;
     width: 100%; }
   .row-cols-md-2 > * {
     -webkit-box-flex: 0;
@@ -9351,17 +9350,17 @@ textarea.form-control-lg {
   /* margin-right: 10px;  */
 }
 /* ************************************************************************************** */
-/* Responsive adjustments */
 @media (max-width: 993px) {
-  /* .logo-image {
-      max-width: 30px;
-  } */
   .right-logo-image {
       visibility: hidden;
   }
 }
 
-
+@media screen and (max-width: 1205px) {
+  .site-nav .site-navigation .site-menu > li > a {
+    font-size: 14px !important; 
+  }
+}
   
 .site-nav {
   position: relative;
@@ -9891,6 +9890,8 @@ textarea {
 @media (max-width: 767.98px) {
   .retro-layout .img {
     height: 240px; } }
+
+
 
 .retro-layout .h-entry {
   display: block;

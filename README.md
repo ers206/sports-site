@@ -1,4 +1,4 @@
-# sports-site
+# Sports Revolt
 
 ## Purpose
 Sports Revolt is a dynamic online forum dedicated to amateur sports writers who want to share their passion for sports with like-minded individuals. This platform provides an engaging space for sports enthusiasts to publish articles, share opinions, and engage in lively discussions about various sports topics. Whether you're a budding journalist, a passionate fan, or someone with unique insights into the sports world, Sports Revolt welcomes you to contribute and connect with others who share your interest.
@@ -41,12 +41,10 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 
 <!-- TO DO  -->
 
-<!-- header from index needs to be on every page -->
 <!-- read readme and delet things that arent used  -->
 <!-- tranfer footer from index to all other pages after copyright is removed -->
-<!--  tags section on content page make sources -->
+<!--  tags section on content page make sources  -->
 <!-- leave a commnent section see if it will work -->
-<!-- before it makes hamburger make nav items 3 on top 3 on bottom or all in one row-->
 <!-- use side sections for links to bball/baseball reference and other useful sites education is important and links to resources-->
 <!-- buy template https://untree.co/license/  as long as comments and forms work -->
 <!-- tips on how to write your own artcle -->
@@ -94,7 +92,7 @@ rotate-right -->
   <!--no research, they believe everything, they think mvps should be on bad teams, winning doesnt matter, potential > production (kyrie)   -->
 <!-- if this was kobe in the olympics people would say "hes playing against amatures" te double standard, see if I can trick tiktokers and put into th article -->
 <!-- ask friends to write articles about their sport -->
-<!-- none of these cowards can take critiizim, they block anyone that has facts to bak them up. youe give a fact that proves them wron and they run away. just like todays players. big pussies  -->
+<!-- none of these cowards can take critiizim or facts, they block anyone that has facts to bak them up. youe give a fact that proves them wron and they run away. just like todays players. big pussies  -->
 
 
 
