@@ -38,12 +38,11 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 
 &copy; E TECHNOLOGIES LLC 2024
 
-
+<!-- images bball 5 base 4 foot 4 more 9 -->
 <!-- TO DO  -->
 
 <!-- read readme and delet things that arent used  -->
 <!-- tranfer footer from index to all other pages after copyright is removed -->
-<!--  tags section on content page make sources  -->
 <!-- leave a commnent section see if it will work -->
 <!-- use side sections for links to bball/baseball reference and other useful sites education is important and links to resources-->
 <!-- buy template https://untree.co/license/  as long as comments and forms work -->
@@ -104,12 +103,17 @@ rotate-right -->
 <!--  -->
 
 
-<!-- Icon attribute  -->
+<!-- Icon attribute already added to terms page -->
  <!-- <a href="https://www.freepik.com/icon/american-football_2700012#fromView=search&page=1&position=35&uuid=0f39eed9-6439-42a6-83fa-d51d04fe93ed">Icon by Freepik</a>  
 <a href="https://www.freepik.com/search">Icon by Freepik</a> 
  Image by <a href="https://pixabay.com/users/katehonish-54094/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=183266">Kate Honish</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=183266">Pixabay</a> 
  Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1846039">Pexels</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1846039">Pixabay</a> 
  Image by <a href="https://pixabay.com/users/eileenploh-20250/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=78394">eileenploh</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=78394">Pixabay</a>  -->
+ <!-- <a href="https://www.freepik.com/free-photo/horizontal-shot-crowded-yankee-baseball-stadium-players-field_10860215.htm#fromView=search&page=1&position=23&uuid=d2bdb9e7-0922-4a31-96c8-5ed373ca0221">Image by wirestock on Freepik</a>
+ <a href="https://www.freepik.com/free-photo/overhead-shot-people-basketball-court-park_9283225.htm#fromView=search&page=1&position=6&uuid=f677a51b-dcd2-4797-aeb2-6e61ff9d210a">Image by wirestock on Freepik</a>
+ <a href="https://www.freepik.com/free-photo/black-man-doing-sports-playing-basketball-sunrise-silhouette_9653925.htm#fromView=search&page=1&position=9&uuid=f677a51b-dcd2-4797-aeb2-6e61ff9d210a">Image by marymarkevich on Freepik</a> -->
+
+
 
 <!-- Yes, there are several options to obtain articles for your website without paying for them. Here are a few:
 Public Domain Articles
