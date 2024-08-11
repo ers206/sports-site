@@ -47,6 +47,7 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 <!-- use side sections for links to bball/baseball reference and other useful sites education is important and links to resources-->
 <!-- buy template https://untree.co/license/  as long as comments and forms work -->
 <!-- tips on how to write your own artcle -->
+<!-- changing categories section in sports pages to sources for info like bballreference -->
 
 
 <!--  -->
