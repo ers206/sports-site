@@ -117,7 +117,7 @@
             console.warn('GLightbox function is not available');
         }
 
-        setupSound();
+        // setupSound();
         preloader();
         tinyslider();
         AOS.init({
@@ -128,46 +128,118 @@
     });
     
     // ******************************************************************************** above is original code in this file
-    // Function to set up sound effects for specific links
-    function setupSound() {
-        console.log('Setting up sound...');
+   
+    // function setupSound() {
+    //     console.log('Setting up sound...');
     
-        // Select the specific links and audio elements
-        const basketballLink = document.querySelector('#basketball-link');
-        const baseballLink = document.querySelector('#baseball-link');
-        const baseballSound = document.querySelector('#baseball-sound');
-        const basketballSound = document.querySelector('#basketball-sound');
+        
+    //     const basketballLink = document.querySelector('#basketball-link');
+    //     const baseballLink = document.querySelector('#baseball-link');
+    //     const baseballSound = document.querySelector('#baseball-sound');
+    //     const basketballSound = document.querySelector('#basketball-sound');
     
-        // Debugging: Log the elements to ensure they are found
-        console.log('basketballLink:', basketballLink);
-        console.log('baseballLink:', baseballLink);
-        console.log('baseballSound:', baseballSound);
-        console.log('basketballSound:', basketballSound);
+     
+    //     console.log('basketballLink:', basketballLink);
+    //     console.log('baseballLink:', baseballLink);
+    //     console.log('baseballSound:', baseballSound);
+    //     console.log('basketballSound:', basketballSound);
     
-        // Check if the elements were found before adding event listeners
-        if (basketballLink && basketballSound) {
-            basketballLink.addEventListener('click', function(event) {
-                event.preventDefault(); // Prevents the default link behavior
-                basketballSound.play().catch(error => console.error('Error playing basketball sound:', error));
-            });
-        } else {
-            console.warn('Basketball link or sound element not found');
-        }
+       
+    //     if (basketballLink && basketballSound) {
+    //         basketballLink.addEventListener('click', function(event) {
+    //             event.preventDefault(); 
+    //             basketballSound.play().catch(error => console.error('Error playing basketball sound:', error));
+    //         });
+    //     } else {
+    //         console.warn('Basketball link or sound element not found');
+    //     }
     
-        if (baseballLink && baseballSound) {
-            baseballLink.addEventListener('click', function(event) {
-                event.preventDefault(); // Prevents the default link behavior
-                baseballSound.play().catch(error => console.error('Error playing baseball sound:', error));
-            });
-        } else {
-            console.warn('Baseball link or sound element not found');
-        }
-    }
-    
+    //     if (baseballLink && baseballSound) {
+    //         baseballLink.addEventListener('click', function(event) {
+    //             event.preventDefault(); 
+    //             baseballSound.play().catch(error => console.error('Error playing baseball sound:', error));
+    //         });
+    //     } else {
+    //         console.warn('Baseball link or sound element not found');
+    //     }
+    // }
+
+
 })();
 
+// document.addEventListener('DOMContentLoaded', () => {
+//     const button = document.getElementById('buttonToAbout');
+//     const sound = document.getElementById('baseball-sound');
+
+//     button.addEventListener('click', () => {
+//         sound.play();
+//     });
+// });
 
 
 
+// ****** this worked by putting an onclick="playBasketballSound()" on the html element in the navbar. it only worked a couple times but it worked****************************************************************
+// function playBasketballSound() {
+//     var basketballSound = document.getElementById('basketball-sound');
+//     if (basketballSound) {
+//         basketballSound.play().catch(error => console.error('Error playing basketball sound:', error));
+//     } else {
+//         console.warn('Basketball sound element not found');
+//     }
+// }
 
+// function playBaseballSound() {
+//     var baseballSound = document.getElementById('baseball-sound');
+//     if (baseballSound) {
+//         baseballSound.play().catch(error => console.error('Error playing baseball sound:', error));
+//     } else {
+//         console.warn('Baseball sound element not found');
+//     }
+// }
+
+// ***************added some checks
+
+// function playBasketballSound() {
+//     var basketballSound = document.getElementById('basketball-sound');
+//     if (basketballSound) {
+//         basketballSound.currentTime = 0; // Reset playback to start
+//         basketballSound.play().catch(error => console.error('Error playing basketball sound:', error));
+//     } else {
+//         console.warn('Basketball sound element not found');
+//     }
+// }
+
+// function playBaseballSound() {
+//     var baseballSound = document.getElementById('baseball-sound');
+//     if (baseballSound) {
+//         baseballSound.currentTime = 0; // Reset playback to start
+//         baseballSound.play().catch(error => console.error('Error playing baseball sound:', error));
+//     } else {
+//         console.warn('Baseball sound element not found');
+//     }
+// }
+
+function playBasketballSound() {
+    var basketballSound = document.getElementById('basketball-sound');
+    if (basketballSound) {
+        basketballSound.volume = 1.0; // Ensure volume is set to 100%
+        basketballSound.muted = false; // Ensure sound is not muted
+        basketballSound.currentTime = 0; // Reset playback to start
+        basketballSound.play().catch(error => console.error('Error playing basketball sound:', error));
+    } else {
+        console.warn('Basketball sound element not found');
+    }
+}
+
+function playBaseballSound() {
+    var baseballSound = document.getElementById('baseball-sound');
+    if (baseballSound) {
+        baseballSound.volume = 1.0; // Ensure volume is set to 100%
+        baseballSound.muted = false; // Ensure sound is not muted
+        baseballSound.currentTime = 0; // Reset playback to start
+        baseballSound.play().catch(error => console.error('Error playing baseball sound:', error));
+    } else {
+        console.warn('Baseball sound element not found');
+    }
+}
 
