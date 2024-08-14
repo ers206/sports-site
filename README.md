@@ -39,8 +39,13 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 &copy; E TECHNOLOGIES LLC 2024
 
 <!-- images bball 5 base 4 foot 4 more 9 -->
+
 <!-- TO DO  -->
 
+<!-- changes sidebar in sports and sports content pages and make section for 2 or 3 articles on each page so
+I can link articles to part of page -->
+
+<!-- If I get more writers I could do a page with authors info and link it to the read my bio button on the contaent pages -->
 <!-- read readme and delet things that arent used  -->
 <!-- tranfer footer from index to all other pages after copyright is removed -->
 <!-- leave a commnent section see if it will work -->
