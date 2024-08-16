@@ -42,9 +42,12 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 
 <!-- TO DO  -->
 
+<!-- get AI articles or free articles and write articles -->
+<!-- on content pages put 4 best articles in the sections that seperate the articles -->
 <!-- changes sidebar in sports and sports content pages and make section for 2 or 3 articles on each page so
 I can link articles to part of page -->
 
+<!-- delete unused images -->
 <!-- If I get more writers I could do a page with authors info and link it to the read my bio button on the contaent pages -->
 <!-- read readme and delet things that arent used  -->
 <!-- tranfer footer from index to all other pages after copyright is removed -->
@@ -92,7 +95,7 @@ rotate-right -->
 
 
 <!-- MY ARTICLES -->
-<!-- bronny -->
+<!-- bronny/ main stream media/ always be a current player in the goat debate -->
 <!-- young fans ruining sports -->
   <!--no research, they believe everything, they think mvps should be on bad teams, winning doesnt matter, potential > production (kyrie)   -->
 <!-- if this was kobe in the olympics people would say "hes playing against amatures" te double standard, see if I can trick tiktokers and put into th article -->
