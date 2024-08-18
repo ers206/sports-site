@@ -125,7 +125,11 @@ body {
 
 nav.site-nav {
   background: linear-gradient(135deg, #8a0303, #270101); 
+  /* margin-bottom: 20px; */
+}
 
+#logoHome {
+  padding-top: 30px;
 }
 
 footer.site-footer {
@@ -9746,7 +9750,8 @@ body {
   font-weight: 400;
   font-size: 15px;
   overflow-x: hidden;
-  color: #848d92;
+  /* was 848d92 gray and too light */
+  color: black;
   position: relative; }
   body:before {
     content: "";
@@ -9858,8 +9863,9 @@ textarea {
   position: relative; }
 
 .section {
-  padding-top: 4rem;
-  padding-bottom: 4rem; }
+  /* this was 4rem  */
+  padding-top: 2rem;
+  padding-bottom: 2rem; }
   .section .heading {
     font-size: 30px;
     font-weight: 700; }
@@ -10184,6 +10190,10 @@ textarea {
     width: 30px;
     border-radius: 50%;
     display: inline-block; }
+
+    .blog-entries {
+      padding-top: 12px;
+    }
 
 .custom-pagination span, .custom-pagination a {
   text-align: center;

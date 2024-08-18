@@ -5,7 +5,10 @@ Sports Revolt is a dynamic online forum dedicated to amateur sports writers who 
 
 
 ## Description
- The site utilizes Bootstrap 5 for a sleek and responsive design, ensuring an optimal user experience across devices. Custom typography from Google Fonts gives the site a modern and clean look, while Bootstrap Icons and Flaticon enhance the visual appeal with intuitive icons. Interactive features are powered by Tiny Slider for smooth carousels and image galleries, and AOS (Animate On Scroll) adds dynamic animations that bring the content to life as users scroll. Glightbox is used to create stylish overlays for viewing images and videos, and Flatpickr provides a user-friendly datepicker for seamless form interactions. Altogether, these technologies work in harmony to create a vibrant community space for sports enthusiasts to express their passion and connect with like-minded individuals.
+ The site utilizes Bootstrap 5 for a sleek and responsive design, ensuring an optimal user experience across devices. Custom typography from Google Fonts gives the site a modern and clean look, while Bootstrap Icons and Flaticon enhance the visual appeal with intuitive icons. Interactive features are powered by Tiny Slider for smooth carousels and image galleries, and AOS (Animate On Scroll) adds dynamic animations that bring the content to life as users scroll. Glightbox is used to create stylish overlays for viewing images and videos, 
+ 
+ <!-- and Flatpickr
+  provides a user-friendly datepicker for seamless form interactions. Altogether, these technologies work in harmony to create a vibrant community space for sports enthusiasts to express their passion and connect with like-minded individuals. -->
 
 
 ## Built with
@@ -46,7 +49,7 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 <!-- on content pages put 4 best articles in the sections that seperate the articles -->
 <!-- changes sidebar in sports and sports content pages and make section for 2 or 3 articles on each page so
 I can link articles to part of page -->
-
+<!-- use data-aos="" not sure its working on everthing bc its in class and not data-aos -->
 <!-- delete unused images -->
 <!-- If I get more writers I could do a page with authors info and link it to the read my bio button on the contaent pages -->
 <!-- read readme and delet things that arent used  -->
