@@ -9897,7 +9897,10 @@ textarea {
   .retro-layout .img {
     height: 240px; } }
 
-
+    .blog-entry img:hover {
+      transform: scale(1.05);
+      transition: transform 0.3s ease-in-out;
+  }
 
 .retro-layout .h-entry {
   display: block;
