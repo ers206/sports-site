@@ -45,11 +45,16 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 
 <!-- TO DO  -->
 
+<!-- 8-19 do today  -->
+<!-- zoom on images in featured section should be on all images on home pages -->
+<!-- start my articles -->
+
+
 <!-- get AI articles or free articles and write articles -->
 <!-- on content pages put 4 best articles in the sections that seperate the articles -->
-<!-- changes sidebar in sports and sports content pages and make section for 2 or 3 articles on each page so
-I can link articles to part of page -->
+
 <!-- use data-aos="" not sure its working on everthing bc its in class and not data-aos -->
+
 <!-- delete unused images -->
 <!-- If I get more writers I could do a page with authors info and link it to the read my bio button on the contaent pages -->
 <!-- read readme and delet things that arent used  -->
@@ -58,7 +63,6 @@ I can link articles to part of page -->
 <!-- use side sections for links to bball/baseball reference and other useful sites education is important and links to resources-->
 <!-- buy template https://untree.co/license/  as long as comments and forms work -->
 <!-- tips on how to write your own artcle -->
-<!-- changing categories section in sports pages to sources for info like bballreference -->
 
 
 <!--  -->
