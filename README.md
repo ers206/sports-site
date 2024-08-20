@@ -45,13 +45,12 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 
 <!-- TO DO  -->
 
-<!-- 8-19 do today  -->
-<!-- zoom on images in featured section should be on all images on home pages -->
-<!-- start my articles -->
+<!-- if I comment out the comment section of the article pages the side bar goes down to the left of the next section. Ill need to fix that -->
 
 
 <!-- get AI articles or free articles and write articles -->
 <!-- on content pages put 4 best articles in the sections that seperate the articles -->
+<!-- take out popular post side bar in article sections -->
 
 <!-- use data-aos="" not sure its working on everthing bc its in class and not data-aos -->
 
@@ -187,40 +186,17 @@ Remember to always review the license terms and conditions for each article to e
 <!-- maybe have AI write some articles with my prompts  -->
 
 
-<!-- Article 1: The Evolution of the Quarterback Position
-"The Quarterback: A Position of Leadership" by Mark R. Hughes (Journal of Sports Sciences, 2018)
-"The Evolution of the Quarterback Position in the National Football League" by Michael D. Allman (Journal of Sports History, 2015)
-"Quarterback Play: A Review of the Literature" by Brian D. Weinberg (Journal of Strength and Conditioning Research, 2017)
-"The Impact of Quarterback Experience on Team Performance in the National Football League" by David M. Weinreb (Journal of Sports Economics, 2019)
-"The Role of the Quarterback in Modern Football" by Mike Tanier (Sports Illustrated, 2020)
-Article 2: The Impact of Advanced Analytics on Football Strategy
-"The Impact of Advanced Analytics on Football Strategy" by Andrew E. Grant (Journal of Sports Analytics, 2019)
-"Using Data to Inform Football Strategy" by James P. Lewis (Journal of Sports Science and Medicine, 2018)
-"The Role of Analytics in Football Decision-Making" by Michael D. Allman (Journal of Sports Economics, 2017)
-"Advanced Analytics in Football: A Review of the Literature" by Brian D. Weinberg (Journal of Sports Sciences, 2020)
-"How Analytics is Changing Football" by Kevin Seifert (ESPN, 2020)
-Article 3: The Shift: How Defensive Positioning is Changing Baseball
-"The Shift: A New Era in Baseball Defense" by Tom Verducci (Sports Illustrated, 2019)
-"The Impact of the Shift on Baseball Offense" by Mitchel Lichtman (Journal of Baseball Research, 2018)
-"Defensive Positioning in Baseball: A Review of the Literature" by Brian D. Weinberg (Journal of Sports Sciences, 2020)
-"The Role of the Shift in Modern Baseball" by Ben Lindbergh (The Athletic, 2020)
-"How the Shift is Changing Baseball" by Jay Jaffe (FanGraphs, 2020)
-Article 4: The Revival of Small Ball: How Speed and Aggression are Reshaping Baseball
-"The Revival of Small Ball: A New Era in Baseball" by Tom Verducci (Sports Illustrated, 2020)
-"The Impact of Speed and Aggression on Baseball Offense" by Mitchel Lichtman (Journal of Baseball Research, 2019)
-"Small Ball in Baseball: A Review of the Literature" by Brian D. Weinberg (Journal of Sports Sciences, 2020)
-"The Role of Speed in Modern Baseball" by Ben Lindbergh (The Athletic, 2020)
-"How Small Ball is Changing Baseball" by Jay Jaffe (FanGraphs, 2020)
-Article 5: The Evolving Game: How New Rules Are Changing Baseball
-"The Impact of New Rules on Baseball" by Tom Verducci (Sports Illustrated, 2020)
-"The Effects of the Pitch Clock on Baseball" by Mitchel Lichtman (Journal of Baseball Research, 2019)
-"The Role of the Three-Batter Minimum in Modern Baseball" by Ben Lindbergh (The Athletic, 2020)
-"How New Rules are Changing Baseball" by Jay Jaffe (FanGraphs, 2020)
-"The Future of Baseball: How New Rules Will Shape the Game" by Kevin Seifert (ESPN, 2020) -->
 
-<!-- The Impact of Analytics on Baseball Strategy
-"The Shift: A New Era in Baseball Defense" by Tom Verducci (Sports Illustrated, 2019)
-"The Impact of Analytics on Baseball Strategy" by Andrew E. Grant (Journal of Sports Analytics, 2019)
-"Using Data to Inform Baseball Strategy" by James P. Lewis (Journal of Sports Science and Medicine, 2018)
-"The Role of Analytics in Baseball Decision-Making" by Michael D. Allman (Journal of Sports Economics, 2017)
-"Advanced Analytics in Baseball: A Review of the Literature" by Brian D. Weinberg (Journal of Sports Sciences, 2020) -->
+
+
+
+
+
+
+
+<!-- /*
+* Template Name: Blogy
+* Template Author: Untree.co
+* Template URI: https://untree.co/
+* License: https://creativecommons.org/licenses/by/3.0/
+*/ -->
