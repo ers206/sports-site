@@ -43,9 +43,16 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 
 <!-- images bball 5 base 4 foot 4 more 9 -->
 
+<!-- Transaction ID
+3DN24957SA515791U -->
+
 <!-- TO DO  -->
 
-<!-- if I comment out the comment section of the article pages the side bar goes down to the left of the next section. Ill need to fix that -->
+<!-- took out comment section. got it to work on base ball section -->
+<!-- change top of page of content page. -->
+
+
+
 
 
 <!-- get AI articles or free articles and write articles -->

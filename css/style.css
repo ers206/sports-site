@@ -90,6 +90,14 @@ body {
   /* cursor: url('/images/baseball_6758191.cur'), auto !important; */
 }
 
+/* .sidebar {
+  float: right; 
+}
+
+.main-content {
+  float: left; 
+} */
+
 /* Hover effect for icons */
 .social li a:hover .icon-instagram {
   color: #e4405f; 
@@ -10218,7 +10226,9 @@ textarea {
     .sidebar {
       padding-left: 15px; } }
 
-.sidebar-box {
+  
+
+/* .sidebar-box {
   margin-bottom: 4em;
   font-size: 15px;
   width: 100%;
@@ -10232,7 +10242,7 @@ textarea {
     font-weight: 400;
     margin-bottom: 30px;
     padding-bottom: 20px;
-    border-bottom: 1px solid #e6e6e6; }
+    border-bottom: 1px solid #e6e6e6; } */
 
 .comment-wrap .heading, .search-result-wrap .heading {
   font-size: 18px;
@@ -10368,7 +10378,43 @@ textarea {
   font-size: 14px;
   color: #b3b3b3; }
 
-.post-entry-sidebar ul, .post-entry-footer ul {
+  
+  /* .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  } */
+  
+  .article {
+    flex: 3;
+    padding: 20px;
+    background: #f0f0f0;
+  }
+  
+  .sidebar {
+    flex: 1;
+    padding: 20px;
+    background: #fff;
+    margin-left: 20px;
+  }
+  
+  .sidebar-box {
+    margin-bottom: 4em;
+    font-size: 15px;
+    background: #fff;
+  }
+  
+  .sidebar-box .heading {
+    font-size: 18px;
+    color: #000;
+    font-weight: 400;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #e6e6e6;
+  }
+  
+
+/* .post-entry-sidebar ul, .post-entry-footer ul {
   padding: 0;
   margin: 0; }
   .post-entry-sidebar ul li, .post-entry-footer ul li {
@@ -10389,7 +10435,7 @@ textarea {
 .post-entry-footer ul li {
   margin-bottom: 0; }
   .post-entry-footer ul li a {
-    color: #fff; }
+    color: #fff; } */
 
 .search-form-wrap {
   margin-bottom: 5em;
