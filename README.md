@@ -48,7 +48,6 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 
 <!-- TO DO  -->
 
-<!-- took out comment section. got it to work on base ball section -->
 <!-- change top of page of content page. -->
 
 
@@ -57,7 +56,6 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 
 <!-- get AI articles or free articles and write articles -->
 <!-- on content pages put 4 best articles in the sections that seperate the articles -->
-<!-- take out popular post side bar in article sections -->
 
 <!-- use data-aos="" not sure its working on everthing bc its in class and not data-aos -->
 
