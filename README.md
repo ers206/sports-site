@@ -52,7 +52,7 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 
 
 
-
+<!-- 2 football articles and 2 hockey articles are needed  -->
 
 <!-- get AI articles or free articles and write articles -->
 <!-- on content pages put 4 best articles in the sections that seperate the articles -->
