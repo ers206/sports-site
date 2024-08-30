@@ -5,10 +5,9 @@ Sports Revolt is a dynamic online forum dedicated to amateur sports writers who 
 
 
 ## Description
- The site utilizes Bootstrap 5 for a sleek and responsive design, ensuring an optimal user experience across devices. Custom typography from Google Fonts gives the site a modern and clean look, while Bootstrap Icons and Flaticon enhance the visual appeal with intuitive icons. Interactive features are powered by Tiny Slider for smooth carousels and image galleries, and AOS (Animate On Scroll) adds dynamic animations that bring the content to life as users scroll. Glightbox is used to create stylish overlays for viewing images and videos, 
+ The site utilizes Bootstrap 5 for a sleek and responsive design, ensuring an optimal user experience across devices. Custom typography from Google Fonts gives the site a modern and clean look, while Bootstrap Icons and Flaticon enhance the visual appeal with intuitive icons. Interactive features are powered by Tiny Slider for smooth carousels and image galleries, and AOS (Animate On Scroll) adds dynamic animations that bring the content to life as users scroll. Glightbox is used to create stylish overlays for viewing images and videos, and PHP for form control.
  
- <!-- and Flatpickr
-  provides a user-friendly datepicker for seamless form interactions. Altogether, these technologies work in harmony to create a vibrant community space for sports enthusiasts to express their passion and connect with like-minded individuals. -->
+
 
 
 ## Built with
@@ -21,7 +20,7 @@ Sports Revolt is a dynamic online forum dedicated to amateur sports writers who 
 * Font Awesome
 * AOS
 * Tiny-sliders
-
+* PHP
 
 
 ## images
@@ -50,13 +49,12 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 
 <!-- TO DO  -->
 
-<!-- change top of page of content page. add label like football -->
+<!-- write articles, feature my own -->
+<!-- change top of page of content page. add label like football.not sure if needed -->
 
 
 
-<!-- 2 football articles and 2 hockey articles are needed  -->
 
-<!-- get AI articles or free articles and write articles -->
 <!-- on content pages put 4 best articles in the sections that seperate the articles -->
 
 <!-- use data-aos="" not sure its working on everthing bc its in class and not data-aos -->
