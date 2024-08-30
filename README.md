@@ -46,6 +46,8 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 <!-- Transaction ID
 3DN24957SA515791U -->
 
+<!-- php -S localhost:8000  -->
+
 <!-- TO DO  -->
 
 <!-- change top of page of content page. add label like football -->
