@@ -49,6 +49,8 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 
 <!-- TO DO  -->
 
+<!-- need 2bball articles  -->
+<!-- need to add articles to sports pages -->
 <!-- write articles, feature my own -->
 <!-- change top of page of content page. add label like football.not sure if needed -->
 
