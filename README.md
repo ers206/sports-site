@@ -49,6 +49,7 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 
 <!-- TO DO  -->
 
+<!-- on sport pages the parts of the articles dont all line up -->
 <!-- need 2bball articles  -->
 <!-- need to add articles to sports pages -->
 <!-- write articles, feature my own -->
