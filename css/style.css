@@ -282,7 +282,8 @@ a {
   color: #214252;
   text-decoration: underline; }
   a:hover {
-    color: #1a3542; }
+    color: #1a3542; 
+  }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
   color: inherit;
@@ -10270,7 +10271,7 @@ textarea {
       background: #f2f2f2; }
       .tags li a:hover {
         color: #fff;
-        background: #214252; }
+        background: #780606; }
 
 .pagination {
   margin-bottom: 5em;
