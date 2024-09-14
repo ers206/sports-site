@@ -58,13 +58,8 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 <!-- use data-aos="" not sure its working on everthing bc its in class and not data-aos -->
 
 <!-- delete unused images -->
-<!-- If I get more writers I could do a page with authors info and link it to the read my bio button on the contaent pages -->
 <!-- read readme and delet things that arent used  -->
-<!-- leave a commnent section see if it will work -->
 <!-- use side sections for links to bball/baseball reference and other useful sites education is important and links to resources-->
-<!-- buy template https://untree.co/license/  as long as comments and forms work -->
-<!-- tips on how to write your own artcle -->
-
 
 <!--  -->
 <!--  -->
