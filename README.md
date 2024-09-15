@@ -48,6 +48,8 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 
 <!-- TO DO  -->
 
+<!-- index page in css? -->
+<!-- make sure forms work, I changed head and preloaders on bottom of page -->
 <!-- add dates to articles -->
 <!-- change top of page of content page. add label like football.not sure if needed -->
 
@@ -96,13 +98,5 @@ Other Animations:
 rotate-left
 rotate-right -->
 
-<!-- messaged SBnation 7-29 through there site  -->
-<!-- https://www.articlecity.com/blog/category/articles/recreation_and_sports/  -->
-<!-- maybe have AI write some articles with my prompts  -->
 
-<!-- /*
-* Template Name: Blogy
-* Template Author: Untree.co
-* Template URI: https://untree.co/
-* License: https://creativecommons.org/licenses/by/3.0/
-*/ -->
+
