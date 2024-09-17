@@ -49,49 +49,8 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 <!-- TO DO  -->
 
 <!-- lazy loading -->
-<!-- index page in css? -->
-<!-- make sure everything works then delete commented out index page  -->
-<!-- make sure forms work, I changed head and preloaders on bottom of page -->
-<!-- check dates of articles -->
-<!-- use data-aos="" not sure its working on everthing bc its in class and not data-aos ***************this seems to be done check every page-->
-
-<!-- read readme and delet things that arent used  -->
-
-<!--  -->
-<!--  -->
-<!--  -->
-
-<!-- THINGS TO THINK ABOUT -->
-
-<!--  need to think of clever way to get writers/and how to make site different-->
-<!--  ask tiktokers to write something, pitch it as a way to get discovered and grow their brand-->
-
-<!-- test -->
-<!-- aos animations******************************************* -->
-
-<!-- Fade Animations:
-fade-up
-fade-down
-fade-left
-fade-right
-fade
-Flip Animations:
-flip-left
-flip-right
-flip-up
-flip-down
-Slide Animations:
-slide-up
-slide-down
-slide-left
-slide-right
-Zoom Animations:
-zoom-in
-zoom-out
-Other Animations:
-rotate-left
-rotate-right -->
-
+<!-- <img src="image.webp" alt="description" loading="lazy"> -->
+<!-- started lazy loading on baseball-content page. check with server on -->
 
 
 <!-- Minimize and Compress Files:
