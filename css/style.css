@@ -1,18 +1,4 @@
-/*
-* Template Name: Blogy
-* Template Author: Untree.co
-* Template License: https://creativecommons.org/licenses/by/3.0/
-* Author URI: https://untree.co/
 
-* Twitter: https://twitter.com/Untree_co
-* Facebook: https://web.facebook.com/Untree.co/
-*/
-/*!
- * Bootstrap v5.1.3 (https://getbootstrap.com/)
- * Copyright 2011-2021 The Bootstrap Authors
- * Copyright 2011-2021 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
- */
 :root {
   --bs-blue: #306EE8;
   --bs-indigo: #6610f2;
@@ -87,16 +73,9 @@ body {
   background-color: var(--bs-body-bg);
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0); 
-  /* cursor: url('/images/baseball_6758191.cur'), auto !important; */
 }
 
-/* .sidebar {
-  float: right; 
-}
 
-.main-content {
-  float: left; 
-} */
 
 /* Hover effect for icons */
 .social li a:hover .icon-instagram {
@@ -125,15 +104,14 @@ body {
 }
 
 .image-container {
-  display: flex; /* Enable Flexbox */
-  justify-content: center; /* Center horizontally */
-  align-items: center; /* Center vertically */
-  /* height: 100vh;  */
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  
 }
 
 nav.site-nav {
   background: linear-gradient(135deg, #8a0303, #270101); 
-  /* margin-bottom: 20px; */
 }
 
 #logoHome {
@@ -445,14 +423,6 @@ legend {
   outline-offset: -2px;
   -webkit-appearance: textfield; }
 
-/* rtl:raw:
-[type="tel"],
-[type="url"],
-[type="email"],
-[type="number"] {
-  direction: ltr;
-}
-*/
 ::-webkit-search-decoration {
   -webkit-appearance: none; }
 
@@ -9350,19 +9320,18 @@ textarea.form-control-lg {
 
 /* Style for the left logo */
 .logo-image {
-  max-width: 50px; /* Adjust as needed */
+  max-width: 50px;
   height: auto;
   display: block;
 }
 
 /* Style for the right logo */
 .right-logo-image {
-  max-width: 50px; /* Adjust the size as needed */
+  max-width: 50px; 
   height: auto;
   display: block;
-  /* margin-right: 10px;  */
 }
-/* ************************************************************************************** */
+
 @media (max-width: 993px) {
   .right-logo-image {
       visibility: hidden;
@@ -10227,24 +10196,6 @@ textarea {
     .sidebar {
       padding-left: 15px; } }
 
-  
-
-/* .sidebar-box {
-  margin-bottom: 4em;
-  font-size: 15px;
-  width: 100%;
-  float: left;
-  background: #fff; }
-  .sidebar-box *:last-child {
-    margin-bottom: 0; }
-  .sidebar-box .heading {
-    font-size: 18px;
-    color: #000;
-    font-weight: 400;
-    margin-bottom: 30px;
-    padding-bottom: 20px;
-    border-bottom: 1px solid #e6e6e6; } */
-
 .comment-wrap .heading, .search-result-wrap .heading {
   font-size: 18px;
   color: #000;
@@ -10378,114 +10329,6 @@ textarea {
 .post-entry-sidebar .post-meta, .post-entry-footer .post-meta {
   font-size: 14px;
   color: #b3b3b3; }
-
-  
-  /* .container {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-  } */
-  
-  /* .ArticleSidebar {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: flex-start;
-  }
-  
-  .ArticleSidebar .article {
-    flex: 3;
-    padding: 20px;
-    background: #f0f0f0;
-  }
-  
-  .ArticleSidebar .sidebar {
-    flex: 1;
-    padding: 20px;
-    background: #fff;
-    margin-left: 20px;
-  } */
-  /* .article {
-    flex: 3;
-    padding: 20px;
-    background: #f0f0f0;
-  }
-  
-  .sidebar {
-    flex: 1;
-    padding: 20px;
-    background: #fff;
-    margin-left: 20px;
-  }
-  
-  .sidebar-box {
-    margin-bottom: 4em;
-    font-size: 15px;
-    background: #fff;
-  }
-  
-  .sidebar-box .heading {
-    font-size: 18px;
-    color: #000;
-    font-weight: 400;
-    margin-bottom: 30px;
-    padding-bottom: 20px;
-    border-bottom: 1px solid #e6e6e6;
-  } */
-  
-  /* @media (max-width: 768px) {
-    .container {
-      flex-direction: column;
-    }
-  
-    .article {
-      flex-direction: column;
-      margin-bottom: 20px;
-    }
-  
-    .sidebar {
-      flex: 1;
-      margin-left: 0;
-    }
-  }
-
-  @media (max-width: 768px) {
-    .ArticleSidebar {
-      flex-direction: column;
-    }
-  
-    .ArticleSidebar .article {
-      flex: 1;
-      margin-bottom: 20px;
-    }
-  
-    .ArticleSidebar .sidebar {
-      flex: 1;
-      margin-left: 0;
-    }
-  } */
-/* .post-entry-sidebar ul, .post-entry-footer ul {
-  padding: 0;
-  margin: 0; }
-  .post-entry-sidebar ul li, .post-entry-footer ul li {
-    list-style: none;
-    padding: 0 0 20px 0;
-    margin: 0 0 20px 0; }
-    .post-entry-sidebar ul li a, .post-entry-footer ul li a {
-      display: table;
-      color: #4D4C7D; }
-      .post-entry-sidebar ul li a img, .post-entry-footer ul li a img {
-        width: 90px; }
-      .post-entry-sidebar ul li a img, .post-entry-sidebar ul li a .text, .post-entry-footer ul li a img, .post-entry-footer ul li a .text {
-        display: table-cell;
-        vertical-align: middle; }
-      .post-entry-sidebar ul li a .text h4, .post-entry-sidebar ul li a .text .h4, .post-entry-footer ul li a .text h4, .post-entry-footer ul li a .text .h4 {
-        font-size: 18px; }
-
-.post-entry-footer ul li {
-  margin-bottom: 0; }
-  .post-entry-footer ul li a {
-    color: #fff; } */
 
 .search-form-wrap {
   margin-bottom: 5em;
