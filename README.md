@@ -47,5 +47,11 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 <!-- php -S localhost:8000  -->
 
 
+<!-- do i ad a college bball page or just expand bball section  on home page and bball page-->
+<!-- added another basketball section on home page so there are 8 articles now change basketball and bball content b=page to 8 articles THIS DOESNT WORK--> 
 
-
+<!-- add college sports page. copy page from working code on godaddy -->
+<!-- added college to header and need to change aos delay then copy and paste on every page -->
+<!-- changed featured article on footer of every page -->
+<!-- add college sports sites on content page -->
+<!-- use college pics try to find a few more take from video off my phone -->
