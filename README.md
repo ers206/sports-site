@@ -46,9 +46,13 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 
 <!-- php -S localhost:8000  -->
 
+<!-- add this to style.css
+ul {
+  list-style-type: none;
+} -->
 
-<!-- do i ad a college bball page or just expand bball section  on home page and bball page-->
-<!-- added another basketball section on home page so there are 8 articles now change basketball and bball content b=page to 8 articles THIS DOESNT WORK--> 
+<!-- college pages have correct header and footer now -->
+
 
 <!-- added college to header and need to change aos delay then copy and paste on every page will need to change header and footer of every page just changing featured article and addin college to navbar -->
 <!-- changed featured article on footer of every page -->
