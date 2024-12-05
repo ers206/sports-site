@@ -52,9 +52,10 @@ ul {
 } -->
 
 <!-- college pages have correct header and footer now -->
+<!-- make sure the college pages are updated to the pages online -->
+<!-- change football basketball to nfl nba...on all sport and home page -->
 
+<!-- add college section after nfl section and copy and paste more sports section from vs bc its reversed -->
 
-<!-- added college to header and need to change aos delay then copy and paste on every page will need to change header and footer of every page just changing featured article and addin college to navbar -->
-<!-- changed featured article on footer of every page -->
 <!-- add college sports sites on content page -->
 <!-- use college pics try to find a few more take from video off my phone free ones at https://www.pexels.com/search/college%20sports/-->
