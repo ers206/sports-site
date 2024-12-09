@@ -59,3 +59,5 @@ ul {
 
 <!-- add college sports sites on content page -->
 <!-- use college pics try to find a few more take from video off my phone free ones at https://www.pexels.com/search/college%20sports/-->
+
+<!-- add articles -->
