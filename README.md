@@ -50,13 +50,14 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 ul {
   list-style-type: none;
 } -->
-
+<!-- check all images -->
+<!-- used old article and wrote 2 -->
 <!-- college pages have correct header and footer now -->
 <!-- make sure the college pages are updated to the pages online -->
 <!-- change football basketball to nfl nba...on all sport and home page -->
-
+<!--  convert images -->
 <!-- add college section after nfl section and copy and paste more sports section from vs bc its reversed -->
-
+<!-- feature the new collge section articles feature on side and on home -->
 <!-- add college sports sites on content page -->
 <!-- use college pics try to find a few more take from video off my phone free ones at https://www.pexels.com/search/college%20sports/-->
 
