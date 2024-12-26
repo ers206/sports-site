@@ -50,6 +50,8 @@ Eric Schweitzer at E TECHNOLOGIES LLC
 ul {
   list-style-type: none;
 } -->
+
+
 <!-- check all images -->
 <!-- used old article and wrote 2 -->
 <!-- college pages have correct header and footer now -->
@@ -60,5 +62,8 @@ ul {
 <!-- feature the new collge section articles feature on side and on home -->
 <!-- add college sports sites on content page -->
 <!-- use college pics try to find a few more take from video off my phone free ones at https://www.pexels.com/search/college%20sports/-->
-
+<!-- change my description. sounds rididcouluos -->
 <!-- add articles -->
+
+
+<!-- 1 more atricle -->
